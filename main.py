@@ -3,8 +3,8 @@ import pyperclip
 #alcuni esempi, personalizza questo oggetto con i tuoi dati personali
 password = {
     'facebook': 'pippo',
-    'istagram_nome': 'Maurizio',
-    'istagram_password': 'paperino',
+    'instagram_nome': 'Maurizio',
+    'instagram_password': 'paperino',
     'google_email': 'pippoepaperino',
 }
 
